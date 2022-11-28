@@ -1,3 +1,6 @@
+Задание 2. https://docs.google.com/spreadsheets/d/1a9s0XqmqUGzi-wcK9_Agj2vjC6H6P_uDhhKVS8cOW0A/edit?usp=sharing - чек лист тестирования телеграм-бота для конвертации валют. Имя в телеграме @QAP_Convertbot
+
+Задание 1.
 # QAP-1037-Module-18-crypto_bot
 Имя в телеграме @aliceunfibot
 
